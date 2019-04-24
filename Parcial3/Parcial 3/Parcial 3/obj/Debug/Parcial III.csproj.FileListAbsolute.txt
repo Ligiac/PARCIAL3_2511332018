@@ -1,0 +1,25 @@
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\bin\Debug\Parcial III.exe.config
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\bin\Debug\Parcial III.exe
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\bin\Debug\Parcial III.pdb
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial III.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial_III.Form1.resources
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial_III.MDIParent1.resources
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial_III.Properties.Resources.resources
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial III.csproj.GenerateResource.Cache
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial III.exe
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial III.pdb
+C:\Users\Ligia Sarai Colocho\desktop\EJERCICIOS PROGRA01\Parcial III\Parcial III\obj\Debug\Parcial_III.Form2.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\bin\Debug\Parcial III.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial III.exe
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial III.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\bin\Debug\Parcial III.exe
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\bin\Debug\Parcial III.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial III.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial_III.Form1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial_III.Form2.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial_III.MDIParent1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial_III.Properties.Resources.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial III\Parcial III\obj\Debug\Parcial III.csproj.GenerateResource.Cache
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial 3\Parcial 3\bin\Debug\Parcial III.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial 3\Parcial 3\obj\Debug\Parcial III.exe
+C:\Users\Ligia Sarai Colocho\Desktop\Parcial 3\Parcial 3\obj\Debug\Parcial III.pdb
