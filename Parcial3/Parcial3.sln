@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial3", "Parcial3\Parcial3.csproj", "{1A3E856B-4914-44F9-AD1E-73F48E7533DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formulario2", "formulario2\formulario2.csproj", "{19382B96-EC49-4828-91C6-B637A7FC2A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3E856B-4914-44F9-AD1E-73F48E7533DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3E856B-4914-44F9-AD1E-73F48E7533DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3E856B-4914-44F9-AD1E-73F48E7533DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3E856B-4914-44F9-AD1E-73F48E7533DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19382B96-EC49-4828-91C6-B637A7FC2A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19382B96-EC49-4828-91C6-B637A7FC2A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19382B96-EC49-4828-91C6-B637A7FC2A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19382B96-EC49-4828-91C6-B637A7FC2A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
